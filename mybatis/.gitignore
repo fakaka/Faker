@@ -1,0 +1,13 @@
+target/
+log/
+logs/
+
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IDEA
+.idea/
